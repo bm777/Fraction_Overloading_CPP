@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1586188659 source:/home/bm7/Documents/Codeblocks/Fraction/main.cpp
+	<iostream>
+	"ZFraction.h"
+	<iostream>
+
+1586222875 /home/bm7/Documents/Codeblocks/Fraction/ZFraction.h
+	<iostream>
+
+1586188609 source:/home/bm7/Documents/Codeblocks/Fraction/ZFraction.cpp
+	"ZFraction.h"
+	<iostream>
+
+1590553062 source:/home/bm7/github/Fraction/main.cpp
+	<iostream>
+	"ZFraction.h"
+	<iostream>
+
+1590553123 /home/bm7/github/Fraction/ZFraction.h
+	<iostream>
+
+1590553034 source:/home/bm7/github/Fraction/ZFraction.cpp
+	"ZFraction.h"
+	<iostream>
+
